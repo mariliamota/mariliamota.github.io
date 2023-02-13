@@ -2192,5 +2192,11 @@ input, select, textarea {
 
 		#contact a i{
 			font-size: 50px;
-
+			color: black;
 		}
+
+		#contact a{
+			text-decoration: none;
+			color: black;
+		}
+		
